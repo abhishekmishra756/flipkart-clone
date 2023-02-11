@@ -22,9 +22,6 @@
 - View Orders History 
 
 
-## 🚀 LIVE APP
-
-https://flipkart-web.app/
 
 
 ##  🖥️ Tech Stack
