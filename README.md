@@ -24,7 +24,7 @@
 
 ## 🚀 LIVE APP
 
-https://flipkart-web.vercel.app/
+https://flipkart-web.app/
 
 
 ##  🖥️ Tech Stack
@@ -48,7 +48,7 @@ https://flipkart-web.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/dhavalnpatel/flipkart-clone.git
+  git clone https://github.com/flipkart-clone.git
 ```
 
 Go to the project directory
